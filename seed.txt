@@ -1,0 +1,107 @@
+[
+
+{
+    "difficulty":"Easy",
+    "text":"The term used to express the series of uniform payments ocurring at equal interval of time is:",
+    "ansA":"Compound Interest",
+    "ansB":"Annuity",
+    "ansC":"Perpetuity",
+    "ansD":"Depreciation",
+    "correctAns":"ansB"
+},
+{
+    "difficulty":"Easy",
+    "text":"The profit derived from a project or business enterprise without consideration of obligations to financial contributors and claims of others based on profit is known as:",
+    "ansA":"Yield",
+    "ansB":"Earning Value",
+    "ansC":"Economic Return",
+    "ansD":"Expected Yield",
+    "correctAns":"ansC"
+},
+{
+    "difficulty":"Easy",
+    "text":"As applied to capitalized asset, the distribution of the initial cost by periodic changes to operation as in depreciation or the reduction of the depth by either periodic or irregular prearranged program is called:",
+    "ansA":"Amortization",
+    "ansB":"Annuity",
+    "ansC":"Depreciation",
+    "ansD":"Capital Recovery",
+    "correctAns":ansA""
+},
+{
+    "difficulty":"Easy",
+    "text":"These are products or services that are desired by humans and will be purchased if money is available after the required necessities have been obtained:",
+    "ansA":"Utilities",
+    "ansB":"Necessities",
+    "ansC":"Luxuries",
+    "ansD":"Producer goods and services",
+    "correctAns":"ansC"
+},
+{
+    "difficulty":"Easy",
+    "text":"These are products or services that are required to support human life and activities, that will be purchased in somewhat the same quantity even though the price varies considerably:",
+    "ansA":"Utilities",
+    "ansB":"Necessities",
+    "ansC":"Luxuries",
+    "ansD":"Producer goods and services",
+    "correctAns":"ansB"
+},
+{
+    "difficulty":"Easy",
+    "text":"A condition where only a few individuals produce a certain product and that any action of one will lead to almost the same action of others.",
+    "ansA":"Oligopoly",
+    "ansB":"Semi-monopoly",
+    "ansC":"Monopoly",
+    "ansD":"Perfect Competition",
+    "correctAns":"ansA"
+},
+{
+    "difficulty":"Easy",
+    "text":"This occurs in a situation where a commodity or service is supplied by a number of vendors and there is nothing to prevent additional ventors entering the market.",
+    "ansA":"Perfect Competition",
+    "ansB":"Monopoly",
+    "ansC":"Oligopoly",
+    "ansD":"Elastic Demand",
+    "correctAns":"ansA"
+},
+{
+    "difficulty":"Easy",
+    "text":"It is the amoun that a willing buyer will pay to a willing seller for a property where each has equal advantage and is under no compulsion to buy or sell.",
+    "ansA":"Fair Value",
+    "ansB":"Use Value",
+    "ansC":"Market Value",
+    "ansD":"Book Value",
+    "correctAns":"ansC"
+},
+{
+    "difficulty":"Easy",
+    "text":"It is defined to be the capacity of a commodity to satisfy human want.",
+    "ansA":"Discount",
+    "ansB":"Luxuries",
+    "ansC":"Utility",
+    "ansD":"Necessity",
+    "correctAns":"ansC"
+},
+{
+    "difficulty":"Easy",
+    "text":"The worth of a property, which is equal to the original cost less depreciation, is known as:",
+    "ansA":"Earning Value",
+    "ansB":"Scrap Value",
+    "ansC":"Book Value",
+    "ansD":"Face Value",
+    "correctAns":"ansC"
+}
+]
+
+
+
+"62166118ccc780081a6b8cd2"
+62166111ccc780081a6b8cd0
+6216610accc780081a6b8cce
+62166101ccc780081a6b8ccc
+621660f8ccc780081a6b8cca
+621660f1ccc780081a6b8cc8
+621660e8ccc780081a6b8cc6
+621660e0ccc780081a6b8cc4
+621660c9ccc780081a6b8cc2
+621660baccc780081a6b8cc0
+
